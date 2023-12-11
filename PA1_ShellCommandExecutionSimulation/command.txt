@@ -1,0 +1,1 @@
+man diff | grep -i -A1 -m1 > output.txt
